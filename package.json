@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/melissarmand/budgettracker/issues"
   },
-  "homepage": "https://github.com/melissarmand/budgettracker#readme"
+  "homepage": "https://github.com/melissarmand/budgettracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "logger": "0.0.1"
+  }
 }
