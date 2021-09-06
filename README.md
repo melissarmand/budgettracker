@@ -1,1 +1,3 @@
-# budgettracker
+# Progressive Budget App
+
+This app 
